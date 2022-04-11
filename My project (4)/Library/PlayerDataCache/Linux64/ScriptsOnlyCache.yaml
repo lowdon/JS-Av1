@@ -637,4 +637,4 @@ ScriptsOnlyBuild:
   platform: 24
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /home/fnco/Desktop/getToTheGarden.x86_64
+  playerPath: /home/fnco/Desktop/proj1/JS-Av1/build/getToTheGarden.x86_64
